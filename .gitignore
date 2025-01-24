@@ -1,0 +1,25 @@
+[Libraries]
+/Library/
+[Temporary files]
+/Temp/
+[Logs]
+/Logs/
+[Builds]
+/Build/
+[Visual Studio]
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+[Misc]
+*.tmp
+*.bak
+*.swp
+*.lock
